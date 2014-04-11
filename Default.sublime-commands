@@ -1,0 +1,26 @@
+[
+    {
+        "caption": "Java jad decompile",
+        "command": "java_jad"
+    },
+
+    {
+        "caption": "Java javap disassemble",
+        "command": "java_javap"
+    },
+
+    {
+        "caption": "Java jad decompile (new window)",
+        "command": "java_jad", "args" : {"new_view" : 1 }
+    },
+
+    {
+        "caption": "Java javap disassemble (new window)",
+        "command": "java_javap", "args" : {"new_view" : 1 }
+    },
+
+    {
+        "caption": "Java jad undo",
+        "command": "java_jad_undo"
+    }
+]
