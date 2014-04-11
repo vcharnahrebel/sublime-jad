@@ -13,7 +13,7 @@ Configuration options:
 
  - `java_jad_path` - Path to JAD executable. Default value for osx and linux: ~/jad/jad, for windows: jad.exe
  - `java_javap_path` - Path to javap executable. Default value for osx and linux: javap, for windows: javap.exe
- - `java_jad_default_command` - Command to execut on .class file load. Default value: `java_jad`. 
+ - `java_jad_default_command` - Command to execute on .class file load. Default value: `java_jad`. 
  
 Key Bindings:
  - No key bindings by default
